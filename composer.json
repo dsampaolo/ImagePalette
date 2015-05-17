@@ -19,8 +19,7 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "ext-gd": "*",
-        "illuminate/support": "4.x"
+        "ext-gd": "*"
     },
     "autoload": {
         "psr-4": {
