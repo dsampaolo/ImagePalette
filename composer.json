@@ -14,13 +14,6 @@
             "role": "Developer"
         }
     ],
-    "replace": {
-        "bfoxwell/image-palette": "*"
-    },
-    "require": {
-        "php": ">=5.4.0",
-        "ext-gd": "*"
-    },
     "autoload": {
         "psr-4": {
             "BrianMcdo\\ImagePalette\\": "src/BrianMcdo/ImagePalette"
