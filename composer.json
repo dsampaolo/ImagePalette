@@ -1,5 +1,5 @@
 {
-    "name": "brianmcdo/image-palette",
+    "name": "dsampaolo/image-palette",
     "type": "library",
     "description": "Extracts colors from an image and generates a color palette against a whitelist of colors.",
     "keywords": ["image","color","palette","extractor","gd","laravel"],
