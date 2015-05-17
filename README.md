@@ -22,10 +22,15 @@ See an example of this in action here: http://alpha.wallhaven.cc/wallpaper/21852
 Simply add the following to your ```composer.json``` file:
 
 ```JSON
-"require": {
-    "brianmcdo/image-palette": "dev-master"
-}
-```
+ "repositories": [
+      {
+        "url": "https://github.com/dsampaolo/ImagePalette.git",
+        "type": "git"
+      }
+    ],
+  "require": {
+        "dsampaolo/image-palette": "dev-master"
+	},```
 
 ## Usage
 
